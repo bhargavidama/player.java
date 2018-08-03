@@ -21,7 +21,7 @@ class Ideone
 			n=n/10;
 			i++;
 		}
-		while(i>=0)
+		while(i>0)
 		{
 			--i;
 			System.out.print(a[i]);
